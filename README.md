@@ -20,7 +20,7 @@ Each board will have one red and one blue queen at different coordinates. In add
 
 1.1: structure added, board logic, and queens
 
-[PR Link](https://github.com/NyxofDarkness/madlib-cli/pull/1)
+[PR Link](https://github.com/NyxofDarkness/chess-board/pull/1)
 
 ## Collaborators
 
